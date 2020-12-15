@@ -1,0 +1,62 @@
+{
+    "title": "学习记录",
+    "author": "ys",
+    "description": "",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        
+    },
+   
+    "pluginsConfig": {
+        "github": {
+           
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "Blankj",
+                "repo": "glory",
+                "type": "star",
+                "size": "small",
+                "count": true
+                }
+            ]
+        },
+        "donate": {
+           
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "google", "facebook", "weibo", "twitter",
+                "qq", "qzone", "linkedin", "pocket"
+            ]
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        }
+        
+    }
+}
